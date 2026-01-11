@@ -1,8 +1,8 @@
-# 🚀 Speak Without Words
+# Speak Without Words
 
 **Speak Without Words** is a real-time computer vision project that turns hand gestures into intent, voice, and system controls. Built with Python, OpenCV, MediaPipe, and Flask.
 
-![Demo](https://via.placeholder.com/800x400?text=Add+Your+Screenshot+Here)
+
 
 ## 🌟 Features
 * **Gesture Recognition:** Detects Stop, Wait, Peace, and Help signals.
@@ -23,3 +23,18 @@
    ```bash
    git clone [https://github.com/tanzirrabby/speak-without-words.git](https://github.com/YOUR_USERNAME/speak-without-words.git)
    cd speak-without-words
+   
+2.Create a virtual environment:
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+
+3.Install dependencies:
+pip install -r requirements.txt
+
+4.Run the application:
+python app.py
+
+5.Open your browser to http://localhost:5000
+
+**Contributing**
+Feel free to open issues or submit pull requests to add new gestures!
