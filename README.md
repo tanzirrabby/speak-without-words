@@ -21,7 +21,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/tanzirrabby/speak-without-words.git](https://github.com/YOUR_USERNAME/speak-without-words.git)
+   git clone [https://github.com/tanzirrabby/speak-without-words.git](https://github.com/tanzirrabby/speak-without-words.git)
    cd speak-without-words
    
 2.Create a virtual environment:
